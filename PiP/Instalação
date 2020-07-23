@@ -1,0 +1,48 @@
+Olá, recentemente migrei do Windows para Linux e estava com dificultade de instalar o Pygame_gui no mesmo, descobri a maneira de instalar o mesmo utilizando 
+o  pip demosntrado no README.md     Repositorio pygame_gui: https://github.com/MyreMylar/pygame_gui
+
+
+    INSTALAR O PIP PARA PYTHON 2
+
+Primeiro, certifique-se de ter o Python 2 instalado. No Ubuntu, use o comando abaixo para verificar.
+
+    python2 --version
+
+Se não houver erro e uma saída válida que mostre a versão do Python, você terá o Python 2 instalado. Então agora você pode instalar o pip para o Python 2 usando este comando:
+
+    sudo apt install python-pip
+
+Ele irá instalar o pip e uma série de outras dependências com ele. Uma vez instalado, verifique se você tem o pip instalado corretamente.
+
+    pip --version
+
+Ele deve mostrar um número de versão, algo assim:
+
+    pip 9.0.1 from /usr/lib/python2.7/dist-packages (python 2.7)
+
+Isso mostra que você instalou com êxito pip no Ubuntu.
+
+    INSTALAR O PIP PARA PYTHON 3
+
+Você tem que ter certeza que o Python 3 está instalado no Ubuntu. Para verificar isso, use este comando:
+
+    python3 --version
+
+Se ele mostra um número como o Python 3.6.6, o Python 3 está instalado no seu sistema Linux.
+
+Agora, você pode instalar o pip3 usando o comando abaixo:
+
+    sudo apt install python3-pip
+
+Você deve verificar se o pip3 foi instalado corretamente usando este comando:
+
+    pip3 --version
+
+Deve mostrar-lhe um número como este:
+
+    pip 9.0.1 from /usr/lib/python3/dist-packages (python 3.6)
+
+Isso significa que o pip3 foi instalado com sucesso no seu sistema.
+
+
+Fonte: https://sempreupdate.com.br/como-instalar-o-pip-no-ubuntu/
