@@ -5,9 +5,9 @@
 
 Atuais/Current:
 
-### Como instalar o PiP/How to install PiP
-
 ### Como instalar o Python/How to install Python
+
+### Como instalar o PiP/How to install PiP
 
 ### Como instalar o Pygame/How to install Pygame
 
