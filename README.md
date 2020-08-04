@@ -1,17 +1,14 @@
 # How to Install on Linux
-## PT-BR/English
+## PT-BR|English
+Teaching how to install some programs on Linux
 
-Ensinando a instalar alguns programas entre outros no Linux
+Current:
 
-Teaching how to install some programs among others on Linux
+### How to install Python
 
-Atuais/Current:
+### How to install PiP
 
-### Como instalar o Python/How to install Python
+### How to install Pygame
 
-### Como instalar o PiP/How to install PiP
-
-### Como instalar o Pygame/How to install Pygame
-
-### Como instalar o Pygame_gui/How to install Pygame_gui
+### How to install Pygame_gui
 
