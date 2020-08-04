@@ -12,3 +12,6 @@ Current:
 
 ### How to install Pygame_gui
 
+OBS:
+####(Click on the folder to choose the language`
+####(Click na pasta para escolher o idioma)
