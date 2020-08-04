@@ -1,7 +1,8 @@
-# Como Instalar  no Linux/How to Install on Linux
+# How to Install on Linux
 ## PT-BR/English
 
- Ensinando a instalar alguns programas entre outros no Linux/Teaching how to install some programs among others on Linux
+Ensinando a instalar alguns programas entre outros no Linux
+Teaching how to install some programs among others on Linux
 
 Atuais/Current:
 
