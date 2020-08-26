@@ -1,0 +1,21 @@
+    REQUISITOS
+
+-Python 3.5+
+-Pygame
+
+    INSTALAÇÃO
+Após instalar o Python, Pygame e o PIP, no terminal digite o seguinte comando: 
+
+    pip3 install pygame_gui
+
+    ATUALIZAR PARA A VERSÃO MAIS RECENTE
+Execute este comando no terminal:
+
+    pip3 install pygame_gui -U
+
+    DESINSTALAR
+Execute este comando no terminal:
+
+    pip3 uninstall pygame_gui
+
+    Fonte: https://github.com/MyreMylar/pygame_gui

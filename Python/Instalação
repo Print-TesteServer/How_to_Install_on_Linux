@@ -1,0 +1,14 @@
+    INSTALAÇÃO
+Para instalar o Python, basta abrir o terminal e escrever o seguinte comando:
+
+    PYTHON 2
+para Python2:
+
+    sudo apt-get install python2
+    
+    PYTHON 3
+para python3
+
+    sudo apt-get install python3
+
+    Fonte: https://howtoinstall.co/pt/ubuntu/trusty/python-pygame?action=remove
