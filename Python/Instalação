@@ -10,5 +10,9 @@ para Python2:
 para python3
 
     sudo apt-get install python3
+    
+    DESINSTALAÇÃO
+    
+    sudo apt-get remove python3
 
     Fonte: https://howtoinstall.co/pt/ubuntu/trusty/python-pygame?action=remove
