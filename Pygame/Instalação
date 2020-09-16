@@ -1,11 +1,3 @@
     INSTALAÇÃO
-Execute este comando no terminal:
-
-    sudo apt-get install python-pygame
-
-    DESINSTALAR
-Execute este comando no terminal:
-
-    sudo apt-get remove python-pygame
-
-    Fonte: https://elias.praciano.com/2017/01/instale-a-biblioteca-pygame-para-python-no-linux-via-pip/
+Acesse o Link a seguir: https://www.pygame.org/wiki/Compilation
+Escolha o Sistema Operacional, e execute os comandos requisitados para instalação de acordo com a versão do Python.
