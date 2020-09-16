@@ -14,4 +14,4 @@ Current:
 
 Note:
 #### Based on UBUNTU Linux Distro | Baseado na Distro Linux UBUNTU 
-#### (Click on the folder to choose the language) | (Click na pasta para escolher o idioma)
+#### Click on the folder to choose the language | Click na pasta para escolher o idioma
