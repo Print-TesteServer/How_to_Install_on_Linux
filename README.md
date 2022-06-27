@@ -13,5 +13,5 @@ Current:
 ### How to install Pygame_gui
 
 Note:
-#### Based on UBUNTU Linux Distro | Baseado na Distro Linux UBUNTU 
+#### Based on UBUNTU and FEDORA Linux Distro | Baseado na Distro Linux UBUNTU e FEDORA
 #### Click on the folder to choose the language | Click na pasta para escolher o idioma
